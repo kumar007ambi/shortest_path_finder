@@ -1,0 +1,33 @@
+.grid {
+  margin: 4px 0 0;
+  padding-left: 50px;
+}
+
+.btn {
+  background-color: #81efee;
+  width: 162px;
+  padding: 2px;
+  margin: 12px;
+  border-radius: 5px;
+  color: #6f2999;
+  cursor: pointer;
+  border-color: #b8e5b6;
+}
+
+.rbtn {
+  background-color: #81efee;
+  border-radius: 5px;
+  color: #6f2999;
+  cursor: pointer;
+  border-color: #b8e5b6;
+  width: 162px;
+  height: 37px;
+  padding: 2px;
+  margin: 12px;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
